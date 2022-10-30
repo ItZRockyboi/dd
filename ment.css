@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv 
+{
+border: 1px solid lightgray;
+}
+.travel_mainDiv image{
+    width: 100%;
+}
+
+.move_head
+{
+    font-size: 20px;
+    padding:  6px 20px;
+    border-radius:10px ;
+    margin-bottom: 15px;
+}
+
+.move_head i
+{
+    float: right;
+}
+
+.achievement_text span
+{
+    color: orange;
+}
